@@ -53,7 +53,7 @@ Politeknik Hasnur
 
 ## 🚀 Cara Menjalankan Project
 ```bash
-git clone https://github.com/Poppy-poppy/Sistem_monitoring-.gif
+git clone https://github.com/Poppy-poppy/Sistem_monitoring-.git
 cd project-monitoring
 composer install
 cp .env.example .env
